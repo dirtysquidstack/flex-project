@@ -70,6 +70,7 @@ body
     margin: auto;
     justify-content: center;
     padding: 40px;
+    padding-bottom: 90px;
 }
 
 .card
@@ -86,4 +87,20 @@ body
     display: flex;
     justify-content: center;
     padding-top: 40px;
+}
+
+.quote
+{
+    background-color: #e5e7eb;
+    justify-content: center;
+    text-align: auto;
+    margin: auto;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.Thor
+{
+    text-align: right;
 }
