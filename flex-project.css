@@ -1,0 +1,25 @@
+a 
+{
+    text-decoration: none;
+    color: white;
+}
+
+ul 
+{
+    list-style-type: none;
+}
+
+li
+{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.header
+{
+    background-color: #1F2937;
+    color: aliceblue;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
