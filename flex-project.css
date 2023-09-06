@@ -104,3 +104,21 @@ body
 {
     text-align: right;
 }
+
+.modul
+{
+    background-color: #3882F6;
+    padding: 30px;
+    margin: 100px;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer
+{
+    background-color: #1F2937;
+    text-align: center;
+    padding: 20px;
+}
